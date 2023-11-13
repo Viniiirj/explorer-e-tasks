@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { DEVICE_BREAKPOINTS } from "../../styles/deviceBreakpoints";
+import { DEVICE_BREAKPOINTS } from "../../styles/deviceBreakpoints"
 
 export const Container = styled.div`
   width: 100%;
@@ -20,6 +20,7 @@ export const Container = styled.div`
     "top"
     "content";
   }
+
 `;
 
 export const FixedContent = styled.section`
